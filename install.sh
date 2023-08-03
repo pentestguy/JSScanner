@@ -7,7 +7,7 @@ cd ~/tools
 
 if [[ ! -d ~/tools/LinkFinder ]]
 then
-        git clone https://github.com/dark-warlord14/LinkFinder
+        git clone https://github.com/pentestguy/LinkFinder.git
 else
         printf "LinkFinder already present in tools folder...!\n\n"
 fi
